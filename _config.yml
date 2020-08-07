@@ -1,1 +1,24 @@
 theme: jekyll-theme-midnight
+title: Anand's rants
+email: chinnitv@gmail.com
+description: >
+  Random bits of nonsense
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://vtumuluri.github.io" # the base hostname & protocol for your site
+paginate:	5 # The number of posts to show per page on your homepage
+
+name: 'Anand Mohan Tumuluri'
+bio: >
+  I'm Anand and I had perfected copy/paste.
+twitter_username: amtveeter
+github_username:  vtumuluri
+
+# Build settings
+# markdown: kramdown
+
+# kramdown:
+  # parse_block_html: true
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
